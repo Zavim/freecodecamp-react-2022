@@ -8,6 +8,14 @@ body {
   font-style: normal;
   background: #282d35;
 }
+main {
+  margin-top: 57px;
+  margin-left: 27px;
+  color: #ffffff;
+  background-image: url(./images/logoHalf.png);
+  background-repeat: no-repeat;
+  background-position: right 70%;
+}
 
 nav {
   display: flex;
@@ -30,7 +38,6 @@ nav {
   font-size: 22.25px;
   line-height: 27px;
   letter-spacing: -0.05em;
-
   color: #61dafb;
 }
 
@@ -40,22 +47,11 @@ nav {
 }
 
 .nav--second-title {
-  position: absolute;
-  width: 259px;
-  height: 21px;
-  left: 264px;
-  top: 38px;
+  right: 27px;
   font-weight: 600;
   font-size: 16px;
-  line-height: 19px;
   text-align: right;
   color: #deebf8;
-}
-
-main {
-  margin-top: 57px;
-  margin-left: 27px;
-  color: #ffffff;
 }
 
 .main--facts-title {
@@ -75,4 +71,9 @@ main {
   padding-block: 10px;
   font-size: 16px;
   font-weight: 400;
+}
+
+.main--facts-list > li::marker {
+  font-size: 1.4rem;
+  color: #61dafb;
 }
