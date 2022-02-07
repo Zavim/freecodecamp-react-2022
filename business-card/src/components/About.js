@@ -6,11 +6,10 @@ export default function About() {
       <nav className='content--about'>
         <h1>About</h1>
         <p>
-          Lorem ipsum dolor sit amet, consectetur
-          adipisicing elit. Doloribus molestias dicta modi
-          distinctio maiores, esse sequi blanditiis
-          reprehenderit sunt nisi, cupiditate officia
-          eligendi quas dolorum ut. Animi aperiam quis quas!
+          I am a software engineer with a focus in web
+          technologies. I have a background in art and am
+          currently learning three.js to incorporate 3D into
+          my web designs.{' '}
         </p>
       </nav>
     </>

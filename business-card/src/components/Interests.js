@@ -6,11 +6,8 @@ export default function Interests() {
       <nav className='content--interests'>
         <h1>Interests</h1>
         <p>
-          Lorem ipsum dolor sit amet, consectetur
-          adipisicing elit. Doloribus molestias dicta modi
-          distinctio maiores, esse sequi blanditiis
-          reprehenderit sunt nisi, cupiditate officia
-          eligendi quas dolorum ut. Animi aperiam quis quas!
+          3D on the web. Animation in all forms. Game
+          development. Shaders. Theatre.
         </p>
       </nav>
     </>
